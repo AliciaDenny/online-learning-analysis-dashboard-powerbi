@@ -51,7 +51,7 @@ The dashboard is designed to help stakeholders understand:
 
 ### 1️⃣ Market Overview
 
-![Overview](overview.png)
+![Overview](overview-.png)
 
 Key insights:
 
@@ -64,7 +64,7 @@ Key insights:
 
 ### 2️⃣ User Engagement & Popularity
 
-![Engagement](engagement.png)
+![Engagement](engegement-.png)
 
 Key insights:
 
@@ -77,7 +77,7 @@ Key insights:
 
 ### 3️⃣ Pricing & Revenue Insights
 
-![Revenue](revenue.png)
+![Revenue](revenue-.png)
 
 Key insights:
 
